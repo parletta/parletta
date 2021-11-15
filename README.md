@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parletta
 - 👀 I’m interested in ...making games
 - 🌱 I’m currently learning ...unity
-- 💞️ I’m looking to collaborate on ...group work
+- 💞️ I’m looking to collaborate on ...rpg on unity
 - 📫 How to reach me ...22parlett103037@gmail.com
 
 <!---
